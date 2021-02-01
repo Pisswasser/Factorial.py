@@ -18,8 +18,3 @@ except ValueError:
 except MemoryError:
     print("the heck bro? such a large number you entered!\nplease enter a smaller number")
 
-
-# del somelist[0]
-# realfinal = list(range(loop))
-# del realfinal[0]
-# print(realfinal)
